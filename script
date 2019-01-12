@@ -1,0 +1,4 @@
+#!/bin/bash
+yacc -d tema2.y
+lex tema2.l
+g++ lex.yy.c y.tab.c -o tema -lfl 

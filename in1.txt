@@ -1,0 +1,19 @@
+PROGRAM nume
+	VAR a,b,c:INTEGER;
+	e:INTEGER;
+	s:INTEGER
+BEGIN
+	a:=25;
+	b:=45;
+	READ(e);
+	WRITE(s);
+	READ(s);
+
+	FOR index:=5 TO 100 DO
+	BEGIN
+		a:=54;
+		b:=1;
+		a:=13;
+		asd=23;
+	END
+END.
